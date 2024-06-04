@@ -1,4 +1,4 @@
-public class NewPattern {
+public class newPattern {
     public static void main(String[] args) {
        
         int rows = 5;
