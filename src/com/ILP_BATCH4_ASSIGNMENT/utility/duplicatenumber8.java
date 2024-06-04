@@ -3,7 +3,7 @@ package com.ILP_BATCH4_ASSIGNMENT.utility;
 public class duplicatenumber8 {
 
 	public static void main(String[] args) {
-		int array[] = { 1, 3, 2, 1, 3, 5, 5, 2, 7, 1, 1 };
+		int array[	] = { 1, 3, 2, 1, 3, 5, 5, 2, 7, 1, 1 };
 		arrayDuplicate(array);
 	}
 
